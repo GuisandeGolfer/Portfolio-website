@@ -1,0 +1,32 @@
+body {
+	padding-top: 70px;
+
+}
+.row.flex {
+		  display: inline-flex;
+		  width: 100%;
+		}
+.flex {
+		 display: flex;
+		 flex-wrap: wrap;
+		}
+.jumbotron {
+		color: #2c3e50
+		}
+.glyphicon-fire {
+	color: red; 
+}
+.navbar-inverse { 
+	background: #2c3e50;
+ }
+ .navbar-inverse .navbar-nav>li>a {
+ 	color: white;
+ }
+ .navbar-brand { 
+ 	color: white;
+  }
+
+a.travelHover:hover {
+	color: white;
+	background-color: #3c7ba8; 
+}
